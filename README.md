@@ -6,6 +6,17 @@ ____
 à l’école [ADA Tech School](https://adatechschool.fr). Je recherche une alternance de 12 mois en tant que développeuse
 full-stack (debut: septembre 2021) au rythme de 4 jours/semaine en entreprise.
 
+### Who am I ✨
+---
+Après une belle expérience de Créative dans le marketing et les réseaux sociaux à l‘étranger,
+j'ai renforcé mon apprentissage des technologies du Web.
+
+J'ai une grande affinité pour le front-end: l'UX / l'UI, l'accessibilité et le SEO.
+
+Curiseuse et fan de médias, je suis toujours à l’affût des nouveautés.
+
+
+📫 Contact: alinabudukina@gmail.com
 
 
 <!--
