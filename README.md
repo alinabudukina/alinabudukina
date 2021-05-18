@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! Moi c’est Alina ✨
+
+---
+
+👩🏼‍💻 Je suis actuellement en reconversion professionnelle dans le domaine du développement web
+à l’école ADA Tech School. Je recherche une alternance de 12 mois en tant que développeuse
+full-stack (debut: septembre 2021) au rythme de 4 jours/semaine en entreprise.
+
+
 
 <!--
 **alinabudukina/alinabudukina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
