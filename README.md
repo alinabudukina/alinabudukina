@@ -2,9 +2,9 @@
 
 ____
 
-👩🏼‍💻 I am a Software Developer studying at @AdaTechSchool in Paris
-🌱 I’m currently learning NodeJs and VueJs
-📫 Contact: alinabudukina@gmail.com
+- 👩🏼‍💻 I am a Software Developer studying at @AdaTechSchool in Paris
+- 🌱 I’m currently learning NodeJs and VueJs
+- 📫 Contact: alinabudukina@gmail.com
 
 
 <!--
