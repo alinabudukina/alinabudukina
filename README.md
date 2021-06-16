@@ -1,11 +1,9 @@
-### Hello! Moi c’est Alina ✨
+### Hello ✨
 
 ____
 
-👩🏼‍💻 Je suis actuellement en reconversion professionnelle dans le domaine du développement web
-à l’école [ADA Tech School](https://adatechschool.fr). Je recherche une alternance de 12 mois en tant que développeuse
-full-stack (debut: septembre 2021) au rythme de 4 jours/semaine en entreprise.
-
+👩🏼‍💻 I am a Software Developer studying at @AdaTechSchool in Paris
+🌱 I’m currently learning NodeJs and VueJs
 📫 Contact: alinabudukina@gmail.com
 
 
