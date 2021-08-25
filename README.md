@@ -3,7 +3,7 @@
 ____
 
 - 👩🏼‍💻 I am a Software Developer studying at @AdaTechSchool in Paris
-- 🌱 I’m currently learning Node.js and frameworks
+- 🌱 I’m currently learning Node.js and React
 - 📫 Contact: alinabudukina@gmail.com
 
 
