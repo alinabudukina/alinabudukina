@@ -2,6 +2,7 @@
 
 ____
 
+- 😄 Temporarily abandoned but restored recently
 - 🌱 I’m currently learning React / TS
 - 📫 Contact: alinabudukina@gmail.com
 
