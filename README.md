@@ -2,8 +2,7 @@
 
 ____
 
-- 👩🏼‍💻 I am a Software Developer studying at @AdaTechSchool in Paris
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning React / TS
 - 📫 Contact: alinabudukina@gmail.com
 
 
