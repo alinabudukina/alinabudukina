@@ -2,8 +2,9 @@
 
 ____
 
-- 😄 Temporarily abandoned but restored recently
-- 🌱 I’m currently learning React / TS
+- 😄 This repository was temporarily abandoned ... but restored recently :)
+- 🌱 I’m currently getting deep into React / TS
+- 🔭 Working on an interactive map for ping-pong locations
 - 📫 Contact: alinabudukina@gmail.com
 
 
