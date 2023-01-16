@@ -2,9 +2,7 @@
 
 ____
 
-- 😄 This repository was temporarily abandoned ... but restored recently :)
-- 🌱 I’m currently getting deep into NextJS / NestJS 
-- 🔭 Working on an interactive map for ping-pong locations
+
 - 📫 Contact: alinabudukina@gmail.com
 
 
